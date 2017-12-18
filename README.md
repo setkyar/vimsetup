@@ -1,0 +1,2 @@
+# vimsetup
+MyOwnVimSetup Notes
